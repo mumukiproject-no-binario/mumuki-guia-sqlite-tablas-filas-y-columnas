@@ -12,6 +12,6 @@ se hicieran dos versiones de una misma película en el mismo año, o una pelícu
   ]'>
 </div>
 
-Para diferenciarlos se utiliza un identificador único (una columna llamada id) para cada registro, que suele ser numérico por simplicidad, y se lo llama Clave Primaria, Principal o Primary Key (PK). 
+Para diferenciarlos se utiliza un identificador único para cada registro, que suele ser numérico por simplicidad, y se lo llama Clave Primaria, Principal o Primary Key (PK). 
 
-> Consultá todos los campos de la tabla _series_peliculas_ (con la sintaxis para la consulta que ya vimos en el ejercicio 5)para ver cómo quedó con el nuevo identificador agregado. 
+> Consultá todos los campos de la tabla _series_peliculas_ para ver cómo quedó con el nuevo identificador agregado. 
