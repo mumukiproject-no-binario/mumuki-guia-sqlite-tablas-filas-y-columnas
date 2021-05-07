@@ -1,6 +1,6 @@
 Queremos mejorar la organización del contenido, utilizando algunos filtros. 
 
-Por ejemplo, nos interesa mostrar una sección de “Recomendados” donde esté todo el contenido con puntaje mayor o igual a 9. 
+Por ejemplo, nos interesa mostrar una sección de “Recomendados” donde esté todo el contenido con puntaje mayor o igual a 9. Para eso, podemos agregar la cláusula WHERE a nuestra consulta.
 
 ```sql
 SELECT titulo AS recomendados
